@@ -1,0 +1,10 @@
+{
+  "name": "shortener",
+  "description": "basic redis-backed url shortener",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "redis": "0.9.0"
+  }
+}
